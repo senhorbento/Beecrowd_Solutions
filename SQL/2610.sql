@@ -1,0 +1,1 @@
+SELECT cast(avg(price) as numeric (5,2)) FROM products;
