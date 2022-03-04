@@ -1,3 +1,3 @@
-# URI_Solutions
+# Beecrowd_Solutions
 
-Alguns exercicios do uri resolvidos em varias linguagens =)
+Alguns exercícios da plataforma Beecrowd (Antiga URI) resolvidos em varias linguagens =)
