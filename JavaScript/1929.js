@@ -4,7 +4,7 @@ var lines = input.split('\n');
 const firstLine = lines.shift().split(' ');
 
 function ehTriangulo (a,b,c){
-    return (Math.abs(b-c) < a && a < b+c) | (Math.abs(a-c) < b && b < a+c) | (Math.abs(a-b) < c && c < a+b) ? 1 : 0
+    return (Math.abs(b-c) < a && a < b+c) | (Math.abs(a-c) < b && b < a+c) | (Math.abs(a-b) < c && c < a+b)
 }
 
 var firstInput = parseInt(firstLine.shift());
