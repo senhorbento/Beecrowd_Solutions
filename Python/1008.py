@@ -1,0 +1,5 @@
+number = int(input())
+hours = int(input())
+payment = float(input())
+print("NUMBER =", number)
+print("SALARY = U$", '%.2f' % (hours*payment))
